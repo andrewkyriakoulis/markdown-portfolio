@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# List of yummy things
+- Pies
+- Pizza
+- Spanakopita
+- Steak
+- Cupcakes
